@@ -1,0 +1,13 @@
+{
+    "display_name": "NavBarOrganizer",
+    "loading_order": 1,
+    "requires": [],
+    "optional": [],
+    "dependencies": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "Your name",
+    "version": "0.0.1",
+    "homePage": "https://github.com/vampy3k/NavBarOrganizer.git",
+    "auto_update": true,
+}
