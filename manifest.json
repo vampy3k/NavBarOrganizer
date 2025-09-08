@@ -6,8 +6,8 @@
     "dependencies": [],
     "js": "index.js",
     "css": "style.css",
-    "author": "Your name",
-    "version": "0.0.2",
+    "author": "vampy3k",
+    "version": "0.0.3",
     "homePage": "https://github.com/vampy3k/NavBarOrganizer.git",
     "auto_update": true
 }
