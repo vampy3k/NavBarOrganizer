@@ -1,0 +1,33 @@
+#top-settings-holder {
+display: flex;
+}
+
+#ai-config-button {
+order: 1;
+}
+#rightNavHolder {
+order: 2;
+}
+#persona-management-button {
+order: 3;
+}
+#WI-SP-button {
+order: 4;
+}
+#advanced-formatting-button {
+order: 5;
+}
+#user-settings-button {
+order: 6;
+}
+
+#logo_block {
+order: 7;
+}
+#extensions-settings-button {
+order: 8;
+}
+
+#sys-settings-button {
+order: 9;
+}
