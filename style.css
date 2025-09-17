@@ -31,3 +31,9 @@ order: 8;
 #sys-settings-button {
 order: 9;
 }
+
+#unimportantYes {
+height: auto !important;  /* removes the calc() height */
+width: auto !important;   /* optional: reset width too */
+line-height: normal;      /* ensures text/icon aligns properly */
+}
